@@ -199,9 +199,25 @@
 #aboutus > div {
   display: flex;
 }
+/* 画像 */
+.culture-img {
+  width: 50%;
+  align-self: flex-start;
+}
+
+.culture-img2 {
+  margin-top: 50px;
+  width: 100%;
+}
  /* 3つの組織文化の表 */
  .culture-table {
   margin-right: 50px;
+}
+/* 番号 */
+.culture-num {
+  font-size: 80px;
+  color: #2710d5;
+  padding: 0 20px 0 0;
 }
  /* 見出し */
  .culture-table th {
